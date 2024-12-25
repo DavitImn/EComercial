@@ -16,8 +16,5 @@ namespace EComercial.Core
         public OrderStatusEnum OrderStatus { get; set; }
         public List<OrderItem> Items { get; set; }
 
-        
-        // ola mola gola bola sola trola tasdsadasdsadasdsa
-
     }
 }
